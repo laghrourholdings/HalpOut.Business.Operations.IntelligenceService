@@ -17,9 +17,6 @@
     </ItemGroup>
     <ItemGroup>
       <Folder Include="Controllers" />
-      <Folder Include="Implementations" />
-      <Folder Include="Signals" />
-      <Folder Include="Slots" />
     </ItemGroup>
 
     <ItemGroup>
